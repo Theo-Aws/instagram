@@ -1,3 +1,6 @@
 use facial
 mfa
 figure print
+mobile numbee
+email and password
+fixing figure printbug issue
